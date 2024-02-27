@@ -29,3 +29,7 @@
   --button-default-active:rgb(255, 0, 112);
   --corner-decor-title:#ff0070;
 }
+
+.theme_dark .decor__bulb-element {
+  display: block;
+}

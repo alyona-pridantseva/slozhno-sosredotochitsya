@@ -57,7 +57,7 @@
   --corner-decor-title:#353430;
 }
 
-    .decor__bulb-element {
-      display: none;
-    }
+.decor__bulb-element {
+  display: none;
+}
 }
